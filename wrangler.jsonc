@@ -1,8 +1,7 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "dehati-litti",
   "compatibility_date": "2026-09-11",
   "assets": {
-    "directory": "./dehati-litti"
+    "directory": "./public"
   }
 }
